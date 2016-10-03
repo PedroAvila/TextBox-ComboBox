@@ -36,6 +36,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.cboCategoria = new GlobalTech.TextBoxControl.EntitySelectorCombo();
+            this.textBoxUniversal1 = new GlobalTech.TextBoxControl.TextBoxUniversal();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNumero
@@ -126,11 +128,38 @@
             this.cboCategoria.Size = new System.Drawing.Size(121, 21);
             this.cboCategoria.TabIndex = 7;
             // 
+            // textBoxUniversal1
+            // 
+            this.textBoxUniversal1.AcceptDecimal = false;
+            this.textBoxUniversal1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.textBoxUniversal1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.textBoxUniversal1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.textBoxUniversal1.Location = new System.Drawing.Point(101, 119);
+            this.textBoxUniversal1.Name = "textBoxUniversal1";
+            this.textBoxUniversal1.NumeroDecimales = ((short)(2));
+            this.textBoxUniversal1.Size = new System.Drawing.Size(100, 20);
+            this.textBoxUniversal1.SombrearTexto = false;
+            this.textBoxUniversal1.TabIndex = 8;
+            this.textBoxUniversal1.TipoControl = GlobalTech.TextBoxControl.TextBoxUniversal.TipoDato.AlfaNumerico;
+            this.textBoxUniversal1.WaterMarkColor = System.Drawing.Color.Gray;
+            this.textBoxUniversal1.WaterMarkText = "Nuevo";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(33, 123);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(46, 13);
+            this.label5.TabIndex = 9;
+            this.label5.Text = "Usuario:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.textBoxUniversal1);
             this.Controls.Add(this.cboCategoria);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -160,6 +189,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private GlobalTech.TextBoxControl.EntitySelectorCombo cboCategoria;
+        private GlobalTech.TextBoxControl.TextBoxUniversal textBoxUniversal1;
+        private System.Windows.Forms.Label label5;
     }
 }
 
