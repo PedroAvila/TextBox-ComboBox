@@ -4,7 +4,7 @@ TextBox y ComboBox personalizados para mejorar la productividad de desarrollador
 **************************** MODO DE USO DEL TextBoxUniversal y EntitySelectorCombo *********************
 
 Para poder usar los controles hay que agregar la dll que viene en la carpeta Libreria de nombre GlobalTech.TextBoxControl.dll
-En el proyecto que esten trabajando pueden crear una carpeta de nombre Libreria y dentro de ella agregar la dll en mención(GlobalTech.TextBoxControl.dll).
+En el proyecto que esten trabajando pueden crear una carpeta de nombre Libreria a nivel de solucion .sln  y dentro de ella agregar la dll en mención(GlobalTech.TextBoxControl.dll) y podrían agregar desde allí la dll.
 Una vez hecho eso deben agregar esa dll como referencia al proyecto de interfaz de usuario que en este caso es un proyecto Windows Forms.
 Para poder disponer de los controles y hacer uso de ellos se debe agregar una nueva pestaña al ToolBox poniendo el nombre que ustedes deseen y luego hacer click derecho en la nueva pestaña creada y seleccionar Elegir elementos y escoger la ruta donde se encuentre la dll y de esa manera pueden agregar los nuevos controles TextBoxUniversal y EntitySelectorCombo para su uso.
 
