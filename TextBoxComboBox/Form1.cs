@@ -19,6 +19,7 @@ namespace TextBoxComboBox
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // De esta manera mas simple y rápida se puede cargar un ComboBox.
             cboCategoria.DataSource = CategoriaRepository.ListarCategoria();
         }
     }

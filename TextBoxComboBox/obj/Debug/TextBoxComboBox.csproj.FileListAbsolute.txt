@@ -11,3 +11,10 @@ D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.pdb
 D:\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe.config
 D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.exe
 D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.pdb
+D:\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe
+D:\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.pdb
+D:\TextBoxComboBox\TextBoxComboBox\bin\Debug\GlobalTech.TextBoxControl.dll
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csprojResolveAssemblyReference.cache
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Form1.resources
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Properties.Resources.resources
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.GenerateResource.Cache
