@@ -1,0 +1,13 @@
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe.config
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.pdb
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\bin\Debug\GlobalTech.TextBoxControl.dll
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csprojResolveAssemblyReference.cache
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Form1.resources
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Properties.Resources.resources
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.GenerateResource.Cache
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.exe
+D:\PruebasC#\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.pdb
+D:\TextBoxComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe.config
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.exe
+D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.pdb
