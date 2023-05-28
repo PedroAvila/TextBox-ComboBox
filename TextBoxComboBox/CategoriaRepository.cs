@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace TextBoxComboBox
 {
@@ -12,28 +6,12 @@ namespace TextBoxComboBox
     {
         public static List<Categoria> ListarCategoria()
         {
-            using (SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["default"].ToString()))
-            {
-                cn.Open();
-                using (SqlCommand cmd = cn.CreateCommand())
-                {
-                    cmd.CommandText = "SELECT CategoriaId, Descripcion FROM Categorias";
-                    var entity = new List<Categoria>();
-                    using (SqlDataReader reader = cmd.ExecuteReader())
-                    {
-                        while (reader.Read())
-                        {
-                            var s = new Categoria()
-                            {
-                                CategoriaId = Convert.ToInt32(reader["CategoriaId"]),
-                                Descripcion = Convert.ToString(reader["Descripcion"])
-                            };
-                            entity.Add(s);
-                        }
-                    }
-                    return entity;
-                }
-            }
+            var categorias = new List<Categoria>() { 
+                new Categoria() { CategoriaId = 1, Descripcion = "Abarrotes" },
+                new Categoria() { CategoriaId = 2, Descripcion = "Linea blanca" },
+                new Categoria() { CategoriaId = 3, Descripcion = "Frutas" },
+            };
+            return categorias;
         }
     }
 }

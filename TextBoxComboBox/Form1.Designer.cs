@@ -45,6 +45,7 @@
             this.txtNumero.AcceptDecimal = false;
             this.txtNumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.txtNumero.Location = new System.Drawing.Point(101, 41);
+            this.txtNumero.MaxLength = 10;
             this.txtNumero.Name = "txtNumero";
             this.txtNumero.NumeroDecimales = ((short)(2));
             this.txtNumero.Size = new System.Drawing.Size(100, 20);
@@ -132,7 +133,6 @@
             // 
             this.textBoxUniversal1.AcceptDecimal = false;
             this.textBoxUniversal1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBoxUniversal1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.textBoxUniversal1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.textBoxUniversal1.Location = new System.Drawing.Point(101, 119);
             this.textBoxUniversal1.Name = "textBoxUniversal1";

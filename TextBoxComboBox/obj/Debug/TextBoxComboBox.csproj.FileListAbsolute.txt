@@ -18,3 +18,16 @@ D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csprojResolveAssemb
 D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Form1.resources
 D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Properties.Resources.resources
 D:\TextBoxComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.GenerateResource.Cache
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe.config
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.exe
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\bin\Debug\TextBoxComboBox.pdb
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\bin\Debug\GlobalTech.TextBoxControl.dll
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.AssemblyReference.cache
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Form1.resources
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.Properties.Resources.resources
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.GenerateResource.cache
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.CoreCompileInputs.cache
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.csproj.CopyComplete
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.exe
+D:\CSharp\TextBox-ComboBox\TextBoxComboBox\obj\Debug\TextBoxComboBox.pdb
